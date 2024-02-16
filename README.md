@@ -1,3 +1,3 @@
 # Test
 testing
-Change from Private to Public and back again
+Change from Private to Public
